@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.child{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.child{
+    background-color: rgb(221, 241, 247);
+    color: rgb(7, 11, 226);
+    height: 700px;
+    border-radius: 10px;
+}
+video{
+    height: 400px;
+    width: 400px;
+    border-radius: 10px;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parent{
+    height: 900px;
+    background-color: black;
+}
+#icon{
+    height: 20px;
+    width: 20px;
+}
+a{
+color:rgb(7, 11, 226);
+}
